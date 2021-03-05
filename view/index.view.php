@@ -34,6 +34,9 @@
 
 
     <?php if (isset($_POST['send']) & empty($validation)): ?>
+
+
+
     <?php foreach ($_POST
 
     as $duomenys => $value): ?>
